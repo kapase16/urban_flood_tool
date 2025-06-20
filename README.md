@@ -3,7 +3,7 @@
 An interactive Python + Streamlit application that estimates urban flood risk using rainfall data and land use information. Built using the SCS Curve Number method, the tool allows users to simulate runoff and visualize flood-prone areas on a map.
 
 ## 🚀 Live Demo  
-👉 [Launch the App](https://urban-flood-tool.streamlit.app) *(Update this link after deployment)*
+👉 [Launch the App](https://urban_flood_tool.streamlit.app) 
 
 ## 📦 Features
 - Upload land use polygons (GeoJSON)
